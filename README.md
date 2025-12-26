@@ -7,6 +7,5 @@
 ## Файлы в проекте:
 - `Проект_Шилин_Константин.ipynb` - Jupyter Notebook с полным анализом
 - `Winter_Fashion_Trends_Dataset.csv` - исходные данные
-- `проект.json` - yandex datalens
 - `README.md` - описание проекта
-Yandex datalens dashboard - https://datalens.yandex/xjj1o36qmgoqh
+- `Yandex datalens dashboard` - https://datalens.yandex/xjj1o36qmgoqh
