@@ -9,4 +9,4 @@
 - `Winter_Fashion_Trends_Dataset.csv` - исходные данные
 - `проект.json` - yandex datalens
 - `README.md` - описание проекта
-
+Yandex datalens dashboard - https://datalens.yandex/xjj1o36qmgoqh
